@@ -2,3 +2,4 @@ Django
 pytz
 djangorestframework
 pygments
+httpie
